@@ -4,7 +4,7 @@
 
 Dies ist eine Webseite, die ich für einen ABU-Auftrag in der BBBaden erstellt habe. Die Aufgabe bestand darin, eine eigene Werbung für ein fiktives Produkt namens "Soulsphere Earbuds" zu erstellen und diese auf irgendeiner Art  zu präsentieren. In meinem Fall habe ich dazu noch eine Webseite erstellt.
 
-Die Webseite enthält Informationen zu den Soulsphere Earbuds, einschließlich Funktionen wie Active Noise Cancelling, Wireless Charging und einer Akkulaufzeit von bis zu 10 Stunden mit dem Ladecase. Ich habe auch eine personalisierte App vorgestellt, mit der Benutzer ihre Earbuds individuell anpassen können.
+Die Webseite enthält Informationen zu den Soulsphere Earbuds, einschließlich Funktionen wie Active Noise Cancelling, Wireless Charging und einer Akkulaufzeit von bis zu 48 Stunden mit dem Ladecase.
 
 ## Disclaimer
 Bitte beachten Sie, dass diese Webseite und das darauf beworbene Produkt fiktiv sind und nur zu Demonstrationszwecken erstellt wurden. Jegliche Ähnlichkeiten mit real existierenden Produkten oder Dienstleistungen sind rein zufällig.
